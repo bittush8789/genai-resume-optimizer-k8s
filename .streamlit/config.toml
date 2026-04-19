@@ -1,0 +1,9 @@
+# Streamlit Community Cloud configuration
+# Place secrets in the App Settings > Secrets section on share.streamlit.io
+
+[theme]
+primaryColor = "#4F46E5"
+backgroundColor = "#f8f9fa"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1F2937"
+font = "sans serif"
